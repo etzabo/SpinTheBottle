@@ -1,4 +1,4 @@
--- Sucks to be you if you have motion sickness.
+-- Created by etzabo. Please credit my name if you use this script an any sort of video.
 localPlayer.PlayerGui.ShootTimer:Destroy()
 local playerService = game:GetService("Players")
 local localPlayer = playerService.LocalPlayer
